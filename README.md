@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=dalwer001&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dalwer001&theme=gotham&hide_border=false)
 <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=dalwer001&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" rel="noreferrer"> </a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalwer001&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dalwer001&icon=0&color=0)](https://visitcount.itsvg.in)
