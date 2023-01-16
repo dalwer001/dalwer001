@@ -1,3 +1,4 @@
+![](https://i.ibb.co/C52R01t/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Md. Dalwer Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
